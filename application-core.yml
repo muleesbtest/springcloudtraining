@@ -1,1 +1,3 @@
-Trainer: Ruchi
+pivotal:
+  studentService:
+              name: student-service
